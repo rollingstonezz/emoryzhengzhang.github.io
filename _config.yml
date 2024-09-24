@@ -56,20 +56,16 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : Person
+  name                   : "Zheng Zhang"
+  links:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=fRdZRHsAAAAJ&hl=en"
+    - label: "GitHub"
+      url: "https://github.com/rollingstonezz2017"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/zheng-zhang-840b461a1/"
 
 # Analytics
 analytics:
@@ -80,15 +76,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zheng Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. candidate in Computer Science at Emory University specializing in machine learning and graph representation learning."
+  location         : "Atlanta, GA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=fRdZRHsAAAAJ&hl=en"
+  email            : "rollingstonezz2017@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +93,10 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zheng-zhang-840b461a1/"
+  orcid            : "https://orcid.org/0009-0008-9808-6020"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
