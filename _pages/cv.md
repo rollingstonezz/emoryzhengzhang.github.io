@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Emory University, Sep 2019 – Dec 2024 (expected)
+* Ph.D. in Computer Science, Emory University, Sep 2019 – Dec 2024 
 * M.S. in Physics, College of William & Mary, Sep 2017 – May 2019
 * B.S. in Physics, University of Science and Technology of China, Sep 2013 – Jun 2017
 
 Research Interests
 ======
-* Large language models
 * Graph representation learning
 * Spatiotemporal analysis
+* Large language models
 * Anomaly detection
 * Large-scale machine learning algorithm design
 
 Skills
 ======
 * Programming: Python, C/C++, MATLAB, Java, Shell
-* Deep learning frameworks: Pytorch, Transformers
-* Large-scale tools: Deepspeed
-* Over 5 years of experience in building large-scale machine learning pipelines
+* Deep learning frameworks: Pytorch, Tensorflow, Transformers
+* Large-scale tools: Deepspeed, Spark
+* Over 6 years of experience in building large-scale machine learning pipelines
 
 Work Experience
 ======
